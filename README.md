@@ -1,5 +1,8 @@
 # json_validator
 
+the validate.py is validate json files  in ```task_folder\event``` with their schemes - ```task_folder\schemes```
+
+results:
 file 3ade063d-d1b9-453f-85b4-dda7bfda4711.json is not validated - there are no scheme 'cmarker_calculated' in schemes
 file f5656ff6-29e1-46b0-8d8a-ff77f9cc0953.json is not valid - 'source' is a required property
 file fb1a0854-9535-404d-9bdd-9ec0abb6cd6c.json is not valid - 'cmarkers' is a required property
